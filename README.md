@@ -1,2 +1,9 @@
-# five-in-a-row_byJuniorXZ
-A five-in-a-row game developed by XiaoZhu when he was still in junior high school
+# 一个五子棋游戏
+### 简介
+这是一个由小猪开发的五子棋游戏，是小猪初二时闲来无事时写的小游戏，由于当时小猪很菜，所以代码写的不好，还请见谅。</br>
+这个仓库主要是高中之后为了纪念初中那段无忧无虑coding的日子而创建</br>
+</br>
+# 注意事项
+* #### 本仓库采用Apache协议，需保留代码中的作者信息
+* 程序依靠pygame实现，需要在运行前运行<code>pip install pygame</code>安装pygame库才能正常运行
+* ### 由于当时小猪十分的菜，所以联机模式写的只能说是依托答辩，不建议使用联机模式的代码，除非你只是在局域网内玩玩
